@@ -154,7 +154,7 @@ export default function TodoList() {
                     onClick={() => deleteTask(task.id)}
                     className="text-white p-1 rounded bg-red-600 hover:bg-red-800"
                   >
-                    Hapus
+                    Hapuss
                   </button>
                 </div>
                 <p className="text-sm text-gray-700">
